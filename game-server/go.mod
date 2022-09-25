@@ -1,6 +1,6 @@
 module github.com/mvangent/game-server
 
-go 1.16
+go 1.19
 
 replace github.com/mvangent/greetings => ../greetings
 
